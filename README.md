@@ -1,2 +1,2 @@
-# SEW_CI-CD
-SEW-Projekt
+# continuous integration (CI) and continuous delivery (CD)
+SEW Übung
